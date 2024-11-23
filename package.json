@@ -1,0 +1,19 @@
+{
+  "name": "array-occurrences-219",
+  "version": "1.0.0",
+  "description": "A utility function to count occurrences of elements in an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen00219/npm-Package-for-array-countOccurrences.git"
+  },
+  "author": "Praveen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveen00219/npm-Package-for-array-countOccurrences/issues"
+  },
+  "homepage": "https://github.com/praveen00219/npm-Package-for-array-countOccurrences#readme"
+}
